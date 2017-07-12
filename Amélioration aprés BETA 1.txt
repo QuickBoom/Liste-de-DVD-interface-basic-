@@ -1,0 +1,7 @@
+> Nettoyer les champs aprés ajout = CHECK
+> Empécher champs vide pour le nom et l'image = CHECK
+> Prévenir où placer les images = CHECK
+
+Ajout de fonction :
+ --> Créer un Dossier spécialement pour les images automatiquement = Check
+ --> Modifier et supprimer = Check !
