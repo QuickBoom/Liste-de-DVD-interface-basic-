@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Choix.resources
+c:\users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Home.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Liste_film_windows.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Editer.resources

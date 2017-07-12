@@ -1,0 +1,12 @@
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.exe
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Release\WindowsApp2.xml
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Choix.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Home.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Liste_film_windows.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.exe
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.xml
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.pdb
